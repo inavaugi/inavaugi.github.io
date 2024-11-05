@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inavaugi.github.io/Lcx/sitemap_index.txt
+Sitemap: https://inavaugi.github.io/okX/sitemap_index.txt
+Sitemap: https://inavaugi.github.io/qgi/sitemap_index.txt
+Sitemap: https://inavaugi.github.io/vEF/sitemap_index.txt
